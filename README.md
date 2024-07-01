@@ -10,10 +10,10 @@ Programming experience in **Python**, **SQL**, **VBA** and **R** with some exper
 
 ## [Sudoku Solver 🧩](https://github.com/PontusHovb/Sudoku-Solver)
 <div style="display: flex; justify-content: space-between;">
-    <img width="250" alt="Backtracking" src="https://github.com/PontusHovb/Sudoku/blob/master/GIFs%20%26%20Graphs/bruteforce_lookahead.gif"/>
-    <img width="30" src="https://github.com/PontusHovb/Sudoku/assets/67122081/5818307d-976f-4cfc-9ad9-cf1ef711ceb1"/>
-    <img width="350" alt="Average time per sudoku" src="https://github.com/PontusHovb/Sudoku/blob/master/GIFs%20%26%20Graphs/average_time.png"/>
-    <img width="30" src="https://github.com/PontusHovb/Sudoku/assets/67122081/5818307d-976f-4cfc-9ad9-cf1ef711ceb1"/>
-    <img width="250" alt="Crook's Algorithm" src="https://github.com/PontusHovb/Sudoku/blob/master/GIFs%20%26%20Graphs/crooks_algorithm.gif"/>
+    <img width="150" alt="Backtracking" src="https://github.com/PontusHovb/Sudoku/blob/master/GIFs%20%26%20Graphs/bruteforce_lookahead.gif"/>
+    <img width="20" src="https://github.com/PontusHovb/Sudoku/assets/67122081/5818307d-976f-4cfc-9ad9-cf1ef711ceb1"/>
+    <img width="250" alt="Average time per sudoku" src="https://github.com/PontusHovb/Sudoku/blob/master/GIFs%20%26%20Graphs/average_time.png"/>
+    <img width="20" src="https://github.com/PontusHovb/Sudoku/assets/67122081/5818307d-976f-4cfc-9ad9-cf1ef711ceb1"/>
+    <img width="150" alt="Crook's Algorithm" src="https://github.com/PontusHovb/Sudoku/blob/master/GIFs%20%26%20Graphs/crooks_algorithm.gif"/>
 </div>
 In this project I have implemented different algorithms (bruteforce, backtracking, candidate checking, placefinding and Crook's algorithm) for solving sudokus to test both their speed, accuracy and solving ability. This is done both in Python and C to build the most efficient and quickest algorithms. While bruteforce and backtracking algorithms are fast and able to solve all sudokus, they have lower accuracy (a lot of wrong tries before reaching correct solution). Instead, more human-like algorithm such as the pen-and-paper based Crook's Algorithm can before on similar level in terms of speed and solving ability but with higher accuracy.
