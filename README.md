@@ -10,24 +10,16 @@ Programming experience in **Python**, **SQL**, **VBA** and **R** with some exper
 ## [The Impact of the Momentum-Factor on Performance 📘](https://github.com/PontusHovb/Bachelor-Thesis)
 Bachelor Thesis in Mathematical Statistics - KTH Royal Institute of Technology <br />
 **Authors**: Pontus Hovberger & Hugo Brunlid <br />
-<div style="display: flex; justify-content: center; align-items: center;">
-    <div style="text-align: center; margin: 0 10px;">
-        <img width="200" alt="Singlefactor model" src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Singlefactor%20model.png"/>
-        <p>Momentum coefficient over time for singlefactor model</p>
-    </div>
-    <img width="25" src="https://github.com/PontusHovb/Sudoku/assets/67122081/5818307d-976f-4cfc-9ad9-cf1ef711ceb1"/>
-    <div style="text-align: center; margin: 0 10px;">
-        <img width="300" alt="Multifactor model" src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Multifactor%20model.png"/>
-        <p>Momentum coefficient over time for multifactor model</p>
-    </div>
-</div>
+| ![Singlefactor model](https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Singlefactor%20model.png) | ![Spacer](https://github.com/PontusHovb/Sudoku/assets/67122081/5818307d-976f-4cfc-9ad9-cf1ef711ceb1) | ![Multifactor model](https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Multifactor%20model.png) |
+|:--:|:--:|:--:|
+| Momentum coefficient over time for singlefactor model |  | Momentum coefficient over time for multifactor model |
 
 ---
 
 In this thesis we explored the kurtosis of momentum, and 'momentum crashes' both from 2008 as discussed in previous research but also in the light of recent covid-19 stock crash. This is done both using a singlefactor model split by Morningstar Category (based on style and size orienation) and also a multifactor model that in addition to momentum (excess past returns) incorporates size orientation, style orientation and management fee are used to predict excess future returns. Findings of predictive power and longevity of momentum by Carhart are still true for US Equity funds 2000-2023 although impact of size & style factors have significantly changed since Carhart Four-Factor model was first presented in 1997. 
 <div style="display: flex; justify-content: center; align-items: center;">
     <div style="text-align: center; margin: 0 10px;">
-        <img width="200" alt="Average excess return per decile (2000-2023)" src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Average%20Excess%20Return%20for%20each%20Decile.png"/>
+        <img width="300" alt="Average excess return per decile (2000-2023)" src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Average%20Excess%20Return%20for%20each%20Decile.png"/>
         <p>Average yearly excess returns for each decile (2000-2023)</p>
     </div>
     <img width="25" src="https://github.com/PontusHovb/Sudoku/assets/67122081/5818307d-976f-4cfc-9ad9-cf1ef711ceb1"/>
