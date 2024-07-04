@@ -40,3 +40,6 @@ In this project I have implemented different algorithms (bruteforce, backtrackin
 
 - 💻 **Languages:** Python, C
 - 🔑 **Keywords:** Bruteforce, backtracking, candidate checking, placefinding, and Crook's algorithm
+
+## Other projects
+- [📝 **CV template**](https://github.com/PontusHovb/CV-Template) CV template in LaTeX to create well-formatted and modular CV (add and order experiences without need for reformatting)
