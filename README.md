@@ -4,7 +4,10 @@ My name is Pontus and I'm a 1st year **MSc-student in Financial Mathematics at K
 
 Previous professional experience includes **Visiting Associate @ BCG Platinion** (tech/IT-strategy consulting internship), **Junior Quantitative Analyst @ Söderberg & Partners** building and maintaining quantitative models for money market, fixed income and equity funds using Python (pandas, numpy, scikit-learn), SQL and VBA. I've also worked as **Intern/business developer @ If P&C Insurance** in commerical pricing where I analyzed claims data to assess, model and price commerical property risk using SQL & SAS as well as building dashboards for portfolio follow-up in PowerBI using DAX and PowerQuery.
 
-Programming experience in **Python**, **SQL**, **VBA** and **R** with some experience in MATLAB, JavaScript and C/C++.
+- Programming experience in [**Python**](https://github.com/stars/PontusHovb/lists/python), [**SQL**](https://github.com/stars/PontusHovb/lists/sql), [**VBA**](https://github.com/stars/PontusHovb/lists/vba) and [**R**](https://github.com/stars/PontusHovb/lists/r) with some experience in [MATLAB](https://github.com/stars/PontusHovb/lists/matlab), [JavaScript](https://github.com/stars/PontusHovb/lists/c-c) and [C/C++](https://github.com/stars/PontusHovb/lists/c-c).
+- My main areas of interest are [📊Quantitative Finance](https://github.com/stars/PontusHovb/lists/quant), [💻Software Engineering](https://github.com/stars/PontusHovb/lists/software-engineering), [⚙️Statistics](https://github.com/stars/PontusHovb/lists/statistics) as well as [🤖Machine Learning & AI](https://github.com/stars/PontusHovb/lists/machine-learning-ai).
+
+💡 Click the links to explore my previous projects within different areas and coding languages!
 
 # Projects 🚀
 ## [The Impact of the Momentum-Factor on Performance 📘](https://github.com/PontusHovb/Bachelor-Thesis)
