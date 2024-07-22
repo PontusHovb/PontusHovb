@@ -14,17 +14,17 @@ Previous professional experience includes **Visiting Associate @ BCG Platinion**
 Bachelor Thesis in Mathematical Statistics - KTH Royal Institute of Technology <br />
 **Authors**: Pontus Hovberger & Hugo Brunlid <br />
 
-<img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Singlefactor%20model.png" width="350" align="left"/>
-<br clear="all"/>
+<p align="center">
+    <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Singlefactor%20model.png" width="400"/>
+</p>
+<p align="center"><i>Momentum coefficient over time for singlefactor model</i></p>
 
 In this thesis we explored the kurtosis of momentum, and 'momentum crashes' both from 2008 as discussed in previous research but also in the light of recent covid-19 stock crash. This is done both using a singlefactor model split by Morningstar Category (based on style and size orienation) and also a multifactor model that in addition to momentum (excess past returns) incorporates size orientation, style orientation and management fee are used to predict excess future returns. 
 
-<img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Average%20Excess%20Return%20for%20each%20Decile.png" width="400" align="left"/>
-<img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Carhart%20Four-Factor%20model.png" width="370" align="left"/>
-<br clear="all"/>
-
-Left picture: *Average yearly excess returns for each decile (2000-2023)* </br>
-Right picture: *Average yearly excess returns for each decile (1962-1987) (Carhart, 1997)* </br>
+<p align="center">
+    <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Momentum%20longevity.png" width="800"/>
+</p>
+<p align="center"><i>Portfolios of mutual funds sorted on lagged one-year return, bachelor thesis to the left (data from 2020-2023), Carhart 197 to the right (data from 1962-1987)</i></p>
 
 Findings of predictive power and longevity of momentum by Carhart are still true for US Equity funds 2000-2023 although impact of size & style factors have significantly changed since Carhart Four-Factor model was first presented in 1997. 
 
