@@ -32,8 +32,10 @@ Findings of predictive power and longevity of momentum by Carhart are still true
 - 🔑 **Keywords:** Momentum, Carhart Four-Factor Model, Multifactor Model, Momentum Crashes 
   
 ## [Sudoku Solver 🧩](https://github.com/PontusHovb/Sudoku-Solver)
-<img align="left" width="400" alt="Backtracking" src="https://github.com/PontusHovb/Sudoku/blob/master/GIFs%20%26%20Graphs/overview.gif"/>
-<br clear="all"/></br>
+<p align="center">
+    <img src="https://github.com/PontusHovb/Sudoku/blob/master/GIFs%20%26%20Graphs/overview.gif" width="600" alt="Solving algorithms"/>
+</p>
+<p align="center"><i>Left: Backtracking Algorithm. Right: Crook's Algorithm</i></p>
 
 In this project I have implemented different algorithms (bruteforce, backtracking, candidate checking, placefinding, and Crook's algorithm) for solving sudokus to test both their speed, accuracy, and solving ability. This is done both in Python and C to build the most efficient and quickest algorithms. While bruteforce and backtracking algorithms are fast and reliable to solve all sudokus, they have lower accuracy (a lot of wrong tries before reaching the correct solution). Instead, more human-like algorithms such as the pen-and-paper based Crook's Algorithm can perform on similar level in terms of speed and solving ability but with perfect accuracy (only inputting a number if it is correct).
 
@@ -41,4 +43,7 @@ In this project I have implemented different algorithms (bruteforce, backtrackin
 - 🔑 **Keywords:** Bruteforce, backtracking, candidate checking, placefinding, and Crook's algorithm
 
 ## Other projects
-- [📝 **CV template**](https://github.com/PontusHovb/CV-Template) CV template in LaTeX to create well-formatted and modular CV (add and order experiences without need for reformatting)
+- [📝 **CV template**](https://github.com/PontusHovb/CV-Template) CV template in **LaTeX** to create well-formatted and modular CV (add and order experiences without need for reformatting)
+- [📈 **Stock**](https://github.com/PontusHovb/Stock) Retrieving and processing historic stock data in **Python (yfinance)**. Model future stock prices with **Brownian Motion**.
+- [🎲 **Risk game**](https://github.com/PontusHovb/Risk-Game) Estimate winning probabilities for board game *Risk* using **Markov Chains** and **Monte-Carlo simulations**.
+- [🖼️ **Image processing**](https://github.com/PontusHovb/Image-Processing) Image processing tools built from scratch in **JavaScript** for blurring, mirroring, zooming and greyscaling images.
