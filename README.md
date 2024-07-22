@@ -4,7 +4,7 @@ My name is Pontus and I'm a 1st year **MSc-student in Financial Mathematics at K
 
 Previous professional experience includes **Visiting Associate @ BCG Platinion** (tech/IT-strategy consulting internship), **Junior Quantitative Analyst @ Söderberg & Partners** building and maintaining quantitative models for money market, fixed income and equity funds using Python (pandas, numpy, scikit-learn), SQL and VBA. I've also worked as **Intern/business developer @ If P&C Insurance** in commerical pricing where I analyzed claims data to assess, model and price commerical property risk using SQL & SAS as well as building dashboards for portfolio follow-up in PowerBI using DAX and PowerQuery.
 
-- Programming experience in [**Python**](https://github.com/stars/PontusHovb/lists/python), [**SQL**](https://github.com/stars/PontusHovb/lists/sql), [**VBA**](https://github.com/stars/PontusHovb/lists/vba) and [**R**](https://github.com/stars/PontusHovb/lists/r) with some experience in [MATLAB](https://github.com/stars/PontusHovb/lists/matlab), [JavaScript](https://github.com/stars/PontusHovb/lists/c-c) and [C/C++](https://github.com/stars/PontusHovb/lists/c-c).
+- Programming experience in [**Python**](https://github.com/stars/PontusHovb/lists/python), [**SQL**](https://github.com/stars/PontusHovb/lists/sql), [**VBA**](https://github.com/stars/PontusHovb/lists/vba) and [**R**](https://github.com/stars/PontusHovb/lists/r) with some experience in [MATLAB](https://github.com/stars/PontusHovb/lists/matlab), [JavaScript](https://github.com/stars/PontusHovb/lists/javascript) and [C/C++](https://github.com/stars/PontusHovb/lists/c-c).
 - My main areas of interest are [📊Quantitative Finance](https://github.com/stars/PontusHovb/lists/quant), [💻Software Engineering](https://github.com/stars/PontusHovb/lists/software-engineering), [⚙️Statistics](https://github.com/stars/PontusHovb/lists/statistics) as well as [🤖Machine Learning & AI](https://github.com/stars/PontusHovb/lists/machine-learning-ai).
 
 💡 Click the links to explore my previous projects within different areas and coding languages!
@@ -32,11 +32,7 @@ Findings of predictive power and longevity of momentum by Carhart are still true
 - 🔑 **Keywords:** Momentum, Carhart Four-Factor Model, Multifactor Model, Momentum Crashes 
   
 ## [Sudoku Solver 🧩](https://github.com/PontusHovb/Sudoku-Solver)
-<img align="left" width="200" alt="Backtracking" src="https://github.com/PontusHovb/Sudoku/blob/master/GIFs%20%26%20Graphs/bruteforce_lookahead.gif"/>
-<img align="left" width="25" src="https://github.com/PontusHovb/Sudoku/assets/67122081/5818307d-976f-4cfc-9ad9-cf1ef711ceb1"/>
-<img align="left" width="300" alt="Average time per sudoku" src="https://github.com/PontusHovb/Sudoku/blob/master/GIFs%20%26%20Graphs/average_time.png"/>
-<img align="left" width="25" src="https://github.com/PontusHovb/Sudoku/assets/67122081/5818307d-976f-4cfc-9ad9-cf1ef711ceb1"/>
-<img align="left" width="200" alt="Crook's Algorithm" src="https://github.com/PontusHovb/Sudoku/blob/master/GIFs%20%26%20Graphs/crooks_algorithm.gif"/>
+<img align="left" width="400" alt="Backtracking" src="https://github.com/PontusHovb/Sudoku/blob/master/GIFs%20%26%20Graphs/overview.gif"/>
 <br clear="all"/></br>
 
 In this project I have implemented different algorithms (bruteforce, backtracking, candidate checking, placefinding, and Crook's algorithm) for solving sudokus to test both their speed, accuracy, and solving ability. This is done both in Python and C to build the most efficient and quickest algorithms. While bruteforce and backtracking algorithms are fast and reliable to solve all sudokus, they have lower accuracy (a lot of wrong tries before reaching the correct solution). Instead, more human-like algorithms such as the pen-and-paper based Crook's Algorithm can perform on similar level in terms of speed and solving ability but with perfect accuracy (only inputting a number if it is correct).
