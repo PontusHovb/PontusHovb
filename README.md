@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-My name is Pontus and I'm a 1st year **MSc-student in Financial Mathematics at KTH** - Royal Institute of Technology with previous exchange studies at **National University of Singapore (NUS)** and a completed BSc in Industrial Engineering & Management from KTH. Selected coursework include Portfolio Theory \& Risk Management, Quantitative Finance, Machine Learning, Language Engineering, Probability Theory, Calculus, Applied Computer Science, Regression Analysis, Game Theory and Markov Processes.
+My name is Pontus and I'm a 1st year **MSc-student in Financial Mathematics at KTH** - Royal Institute of Technology with previous exchange studies at **National University of Singapore (NUS)** and a completed BSc in Industrial Engineering & Management from KTH. Selected coursework include Portfolio Theory \& Risk Management, Quantitative Finance, Machine Learning, Language Engineering, Probability Theory, Applied Computer Science, Regression Analysis, Game Theory and Markov Processes.
 
 Previous professional experience includes **Visiting Associate @ BCG Platinion** (tech/IT-strategy consulting internship), **Junior Quantitative Analyst @ Söderberg & Partners** building and maintaining quantitative models for money market, fixed income and equity funds using Python (pandas, numpy, scikit-learn), SQL and VBA. I've also worked as **Intern/business developer @ If P&C Insurance** in commerical pricing where I analyzed claims data to assess, model and price commerical property risk using SQL & SAS as well as building dashboards for portfolio follow-up in PowerBI using DAX and PowerQuery.
 
 - Programming experience in [**Python**](https://github.com/stars/PontusHovb/lists/python), [**SQL**](https://github.com/stars/PontusHovb/lists/sql), [**VBA**](https://github.com/stars/PontusHovb/lists/vba) and [**R**](https://github.com/stars/PontusHovb/lists/r) with some experience in [MATLAB](https://github.com/stars/PontusHovb/lists/matlab), [JavaScript](https://github.com/stars/PontusHovb/lists/javascript) and [C/C++](https://github.com/stars/PontusHovb/lists/c-c).
-- My main areas of interest are [📊Quantitative Finance](https://github.com/stars/PontusHovb/lists/quant), [💻Software Engineering](https://github.com/stars/PontusHovb/lists/software-engineering), [⚙️Statistics](https://github.com/stars/PontusHovb/lists/statistics) as well as [🤖Machine Learning & AI](https://github.com/stars/PontusHovb/lists/machine-learning-ai).
+- My main areas of interest are [📊Quantitative Finance](https://github.com/stars/PontusHovb/lists/quant), [⚙️Algorithms](https://github.com/stars/PontusHovb/lists/algorithms), [🧮Statistics](https://github.com/stars/PontusHovb/lists/statistics) as well as [🤖Machine Learning & AI](https://github.com/stars/PontusHovb/lists/machine-learning-ai).
 
 💡 Click the links to explore my previous projects within different areas and coding languages!
 
@@ -24,7 +24,7 @@ In this thesis we explored the kurtosis of momentum, and 'momentum crashes' both
 <p align="center">
     <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Momentum%20longevity.png" width="800"/>
 </p>
-<p align="center"><i>Portfolios of mutual funds sorted on lagged one-year return, bachelor thesis to the left (data from 2020-2023), Carhart 197 to the right (data from 1962-1987)</i></p>
+<p align="center"><i>Portfolios of mutual funds sorted on lagged one-year return, bachelor thesis to the left (data from 2020-2023), Carhart 1997 to the right (data from 1962-1987)</i></p>
 
 Findings of predictive power and longevity of momentum by Carhart are still true for US Equity funds 2000-2023 although impact of size & style factors have significantly changed since Carhart Four-Factor model was first presented in 1997. 
 
@@ -47,3 +47,4 @@ In this project I have implemented different algorithms (bruteforce, backtrackin
 - [📈 **Stock**](https://github.com/PontusHovb/Stock) Retrieving and processing historic stock data in **Python (yfinance)**. Model future stock prices with **Brownian Motion**.
 - [🎲 **Risk game**](https://github.com/PontusHovb/Risk-Game) Estimate winning probabilities for board game *Risk* using **Markov Chains** and **Monte-Carlo simulations**.
 - [🖼️ **Image processing**](https://github.com/PontusHovb/Image-Processing) Image processing tools built from scratch in **JavaScript** for blurring, mirroring, zooming and greyscaling images.
+- [🗂️ **Sorting algorithms**](https://github.com/PontusHovb/Sorting-Algorithms) 8 of the most common sorting algorithms implemented in **C**, and compared based on **time complexity**.
