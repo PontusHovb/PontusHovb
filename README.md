@@ -37,10 +37,26 @@ Findings of predictive power and longevity of momentum by Carhart are still true
 </p>
 <p align="center"><i>Left: Backtracking Algorithm. Right: Crook's Algorithm</i></p>
 
-In this project I have implemented different algorithms (bruteforce, backtracking, candidate checking, placefinding, and Crook's algorithm) for solving sudokus to test both their speed, accuracy, and solving ability. This is done both in Python and C to build the most efficient and quickest algorithms. While bruteforce and backtracking algorithms are fast and reliable to solve all sudokus, they have lower accuracy (a lot of wrong tries before reaching the correct solution). Instead, more human-like algorithms such as the pen-and-paper based Crook's Algorithm can perform on similar level in terms of speed and solving ability but with perfect accuracy (only inputting a number if it is correct).
+In this project I have implemented different algorithms (bruteforce, backtracking, candidate checking, placefinding, and Crook's algorithm) for solving sudokus to test both their speed, accuracy, and solving ability. This is done both in Python and C to build the most efficient and quickest algorithms. While bruteforce and backtracking algorithms are fast and reliable to solve all sudokus, they have lower accuracy (a lot of wrong tries before reaching the correct solution). Instead, more human-like algorithms such as the pen-and-paper based Crook's Algorithm can perform on similar level in terms of speed and solving ability but with perfect accuracy (only inputting a number if it is correct).'
 
 - 💻 **Languages:** Python, C
 - 🔑 **Keywords:** Bruteforce, backtracking, candidate checking, placefinding, and Crook's algorithm
+  
+## [Option Pricing 🏦](https://github.com/PontusHovb/Option-Pricing)
+In this project Binomial Model, Black Scholes and Longstaff Schwart's are implemented to calculate prices of both European and American options. For European options, a number of trading strategies are implemented, showcasing their respective payoff functions:
+<p align="center">
+    <img src="https://github.com/PontusHovb/Option-Pricing/blob/master/Images/TradingStrategies2.png" width="600"/>
+</p>
+<p align="center"><i>Long Straddle (left) and Long Call Butterfly (right)</i></p>
+
+Unlike European options, American options have no well-known pricing models with closed-form solutions and instead Brownian Motion is used to simulate a sample of outcomes for which Longstaff Schwart's method can be used to calculate current price of American options.
+<p align="center">
+    <img src="https://github.com/PontusHovb/Option-Pricing/blob/master/Images/GBM.png" width="400"/>
+</p>
+<p align="center"><i>Example of GBM (Geometric Brownian Motion) outcomes</i></p>
+
+- 💻 **Languages:** Python (pandas, numpy, scipy, matplotlib, jupyter notebook)
+- 🔑 **Keywords:** European Options, American Options, Binomial Model, Black-Scholes, Longstaff Schwartz
 
 ## Other projects
 - [📝 **CV template**](https://github.com/PontusHovb/CV-Template) CV template in **LaTeX** to create well-formatted and modular CV (add and order experiences without need for reformatting)
