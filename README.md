@@ -56,11 +56,20 @@ In this project I have implemented different algorithms (bruteforce, backtrackin
 - 🔑 **Keywords:** Bruteforce, backtracking, candidate checking, placefinding, and Crook's algorithm
 
 ## Other projects
+[📊Quantitative Finance](https://github.com/stars/PontusHovb/lists/quant)
+- [📈 **Stock**](https://github.com/PontusHovb/Stock) Retrieving and processing historic stock data in **Python (yfinance)**. Model future stock prices with **Brownian Motion**
+- [♻️ **ESG/SBTi**](https://github.com/PontusHovb/ESG-SBTi) ESG-score and SBTi's effect on financial performance, coded in **R**
+
+[🤖Machine Learning & AI](https://github.com/stars/PontusHovb/lists/machine-learning-ai)
 - [🐶 **CNN**](https://github.com/PontusHovb/CNN-CIFAR-10) **Convolutional neural network (CNN)** implemented in **PyTorch** for image classification on the CIFAR-10 dataset.
-- [🎲 **Risk game**](https://github.com/PontusHovb/Risk-Game) Estimate winning probabilities for board game *Risk* using **Markov Chains** and **Monte-Carlo simulations**.
-- [🗂️ **Sorting algorithms**](https://github.com/PontusHovb/Sorting-Algorithms) 8 of the most common sorting algorithms implemented in **C**, and compared based on **time complexity**.
-- [📈 **Stock**](https://github.com/PontusHovb/Stock) Retrieving and processing historic stock data in **Python (yfinance)**. Model future stock prices with **Brownian Motion**.
-- [🖼️ **Image processing**](https://github.com/PontusHovb/Image-Processing) Image processing tools built from scratch in **JavaScript** for blurring, mirroring, zooming and greyscaling images.
-- [♻️ **ESG/SBTi**](https://github.com/PontusHovb/ESG-SBTi) ESG-score and SBTi's effect on financial performance, coded in **R**.
+
+[⚙️Algorithms](https://github.com/stars/PontusHovb/lists/algorithms)
+- [🗂️ **Sorting algorithms**](https://github.com/PontusHovb/Sorting-Algorithms) 8 of the most common sorting algorithms implemented in **C**, and compared based on **time complexity**
+
+[🧮Statistics](https://github.com/stars/PontusHovb/lists/statistics)
+- [🎲 **Risk game**](https://github.com/PontusHovb/Risk-Game) Estimate winning probabilities for board game *Risk* using **Markov Chains** and **Monte-Carlo simulations**
+
+Other
+- [🖼️ **Image processing**](https://github.com/PontusHovb/Image-Processing) Image processing tools built from scratch in **JavaScript** for blurring, mirroring, zooming and greyscaling images
 - [📝 **CV template**](https://github.com/PontusHovb/CV-Template) CV template in **LaTeX** to create well-formatted and modular CV (add and order experiences without need for reformatting)
 
