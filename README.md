@@ -61,13 +61,15 @@ In this project I have implemented different algorithms (bruteforce, backtrackin
 - [♻️ **ESG/SBTi**](https://github.com/PontusHovb/ESG-SBTi) ESG-score and SBTi's effect on financial performance, coded in **R**
 
 [🤖Machine Learning & AI](https://github.com/stars/PontusHovb/lists/machine-learning-ai)
-- [🐶 **CNN**](https://github.com/PontusHovb/CNN-CIFAR-10) **Convolutional neural network (CNN)** implemented in **PyTorch** for image classification on the CIFAR-10 dataset.
+- [🐶 **CNN**](https://github.com/PontusHovb/CNN-CIFAR-10) **Convolutional neural network (CNN)** implemented in **PyTorch** for image classification on the CIFAR-10 dataset
+- [🌻 **ML methods**](https://github.com/PontusHovb/Iris-Flower-ML) Image classification on Iris Flower dataset using 5 different machine learning methods in Scikit-learn (**Decision Tree**, **Support Vector Machine**, **Random Forest**, **Naive Bayes** and **K-nearest neighbour**). **Guassian Mixture Model** and **K-means Algorithm** implemented from scratch
 
 [⚙️Algorithms](https://github.com/stars/PontusHovb/lists/algorithms)
 - [🗂️ **Sorting algorithms**](https://github.com/PontusHovb/Sorting-Algorithms) 8 of the most common sorting algorithms implemented in **C**, and compared based on **time complexity**
 
 [🧮Statistics](https://github.com/stars/PontusHovb/lists/statistics)
 - [🎲 **Risk game**](https://github.com/PontusHovb/Risk-Game) Estimate winning probabilities for board game *Risk* using **Markov Chains** and **Monte-Carlo simulations**
+- [🌡️ **Global temperatures**](https://github.com/PontusHovb/Global-Temperatures) Studying increasing global temperatures with **regression analysis** of emission-based variables in R.
 
 Other
 - [🖼️ **Image processing**](https://github.com/PontusHovb/Image-Processing) Image processing tools built from scratch in **JavaScript** for blurring, mirroring, zooming and greyscaling images
