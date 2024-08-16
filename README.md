@@ -33,7 +33,7 @@ In this project Binomial Model, Black Scholes and Longstaff Schwart's are implem
 <p align="center">
     <img src="https://github.com/PontusHovb/Option-Pricing/blob/master/Images/TradingStrategies2.png" width="600"/>
 </p>
-<p align="center"><i>Long Straddle (left) and Long Call Butterfly (right)</i></p>
+<p align="center"><i>Bear Put Spread (left) and Long Call Butterfly Spread (right)</i></p>
 
 Unlike European options, American options have no well-known pricing models with closed-form solutions and instead Brownian Motion is used to simulate a sample of outcomes for which Longstaff Schwart's method can be used to calculate current price of American options.
 <p align="center">
@@ -56,22 +56,23 @@ In this project I have implemented different algorithms (bruteforce, backtrackin
 - 🔑 **Keywords:** Bruteforce, backtracking, candidate checking, placefinding, and Crook's algorithm
 
 ## Other projects
-[📊Quantitative Finance](https://github.com/stars/PontusHovb/lists/quant)
-- [📈 **Stock**](https://github.com/PontusHovb/Stock) Retrieving and processing historic stock data in **Python (yfinance)**. Model future stock prices with **Brownian Motion**
-- [♻️ **ESG/SBTi**](https://github.com/PontusHovb/ESG-SBTi) ESG-score and SBTi's effect on financial performance, coded in **R**
+[📊 Quantitative Finance](https://github.com/stars/PontusHovb/lists/quant)
+- [📈 **Stock**](https://github.com/PontusHovb/Stock) Retrieving and processing historic stock data in **Python (yfinance)**, which can then be used for other projects. Model future stock prices and possible outcomes with **Brownian Motion**
+- [♻️ **ESG/SBTi**](https://github.com/PontusHovb/ESG-SBTi) The effect of ESG-score and SBTi on financial performance for US stocks, coded in **R**
 
-[🤖Machine Learning & AI](https://github.com/stars/PontusHovb/lists/machine-learning-ai)
-- [🐶 **CNN**](https://github.com/PontusHovb/CNN-CIFAR-10) **Convolutional neural network (CNN)** implemented in **PyTorch** for image classification on the CIFAR-10 dataset
-- [🌻 **ML methods**](https://github.com/PontusHovb/Iris-Flower-ML) Image classification on Iris Flower dataset using 5 different machine learning methods in Scikit-learn (**Decision Tree**, **Support Vector Machine**, **Random Forest**, **Naive Bayes** and **K-nearest neighbour**). **Guassian Mixture Model** and **K-means Algorithm** implemented from scratch
+[🤖 Machine Learning & AI](https://github.com/stars/PontusHovb/lists/machine-learning-ai)
+- [🐶 **CNN**](https://github.com/PontusHovb/CNN-CIFAR-10) **Convolutional neural network (CNN)** implemented in **PyTorch** for image classification on the CIFAR-10 dataset, and compared to pre-trained AlexNet model
+- [🌻 **Image classification**](https://github.com/PontusHovb/Iris-Flower-ML) Image classification on Iris Flower dataset using 5 different machine learning methods in Scikit-learn (**Decision Tree**, **Support Vector Machine**, **Random Forest**, **Naive Bayes** and **K-nearest neighbour**). Implementing **Guassian Mixture Model** and **K-means Algorithm** from scratch
+- [2️⃣ **SVM**](https://github.com/PontusHovb/Support-Vector-Machine) **Support Vector Machine (SVM)** both with soft margins and kernel (linear, poly and gaussian) for classifying handwritten numbers in MINST dataset.
 
-[⚙️Algorithms](https://github.com/stars/PontusHovb/lists/algorithms)
+[⚙️ Algorithms](https://github.com/stars/PontusHovb/lists/algorithms)
 - [🗂️ **Sorting algorithms**](https://github.com/PontusHovb/Sorting-Algorithms) 8 of the most common sorting algorithms implemented in **C**, and compared based on **time complexity**
 
-[🧮Statistics](https://github.com/stars/PontusHovb/lists/statistics)
+[🧮 Statistics](https://github.com/stars/PontusHovb/lists/statistics)
 - [🎲 **Risk game**](https://github.com/PontusHovb/Risk-Game) Estimate winning probabilities for board game *Risk* using **Markov Chains** and **Monte-Carlo simulations**
 - [🌡️ **Global temperatures**](https://github.com/PontusHovb/Global-Temperatures) Studying increasing global temperatures with **regression analysis** of emission-based variables in R.
+- [🔍 **Logistic regression**](https://github.com/PontusHovb/Logistic-Regression) **Logistic regression with gradient descent and stochastic gradient descent** implemented from scratch using PyTorch.
 
 Other
 - [🖼️ **Image processing**](https://github.com/PontusHovb/Image-Processing) Image processing tools built from scratch in **JavaScript** for blurring, mirroring, zooming and greyscaling images
 - [📝 **CV template**](https://github.com/PontusHovb/CV-Template) CV template in **LaTeX** to create well-formatted and modular CV (add and order experiences without need for reformatting)
-
