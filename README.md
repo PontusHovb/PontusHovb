@@ -25,6 +25,8 @@ In this bachelor thesis, me and my thesis partner Hugo Brunlid explored the kurt
 
 We could conclude that findings of predictive power and longevity of momentum by Carhart are valid still today although impact of size & style factors have significantly changed since Carhart Four-Factor model was first presented in 1997. 
 
+Click [here](https://github.com/PontusHovb/Bachelor-Thesis) to learn more.
+
 - 💻 **Languages:** Python (pandas, numpy, scikit-learn, jupyter notebook)
 - 🔑 **Keywords:** Momentum, Carhart Four-Factor Model, Multifactor Model, Momentum Crashes 
 
@@ -41,6 +43,8 @@ Unlike European options, American options have no well-known pricing models with
 </p>
 <p align="center"><i>Example of GBM (Geometric Brownian Motion) outcomes</i></p>
 
+Click [here](https://github.com/PontusHovb/Option-Pricing) to learn more.
+
 - 💻 **Languages:** Python (pandas, numpy, scipy, matplotlib, jupyter notebook)
 - 🔑 **Keywords:** European Options, American Options, Binomial Model, Black-Scholes, Longstaff Schwartz
 
@@ -51,6 +55,8 @@ Unlike European options, American options have no well-known pricing models with
 <p align="center"><i>Left: Backtracking Algorithm. Right: Crook's Algorithm</i></p>
 
 In this project I have implemented different algorithms (bruteforce, backtracking, candidate checking, placefinding, and Crook's algorithm) for solving sudokus to test both their speed, accuracy, and solving ability. This is done both in Python and C to build the most efficient and quickest algorithms. While backtracking algorithm is fast and reliable to solve all sudokus, it has lower accuracy (a lot of wrong tries before reaching the correct solution). Instead, more human-like algorithms such as the pen-and-paper based Crook's Algorithm can compete on similar level in terms of speed and solving ability but with perfect accuracy (only inputting a number if it is correct).'
+
+Click [here](https://github.com/PontusHovb/Sudoku-Solver) to learn more.
 
 - 💻 **Languages:** Python, C
 - 🔑 **Keywords:** Bruteforce, backtracking, candidate checking, placefinding, and Crook's algorithm
