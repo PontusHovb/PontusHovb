@@ -63,6 +63,7 @@ Click [here](https://github.com/PontusHovb/Sudoku-Solver) to learn more.
 
 ## Other projects
 [📊 Quantitative Finance](https://github.com/stars/PontusHovb/lists/quant)
+- [⚖️ **Opening/Closing Auction Order Book**](https://github.com/PontusHovb/Nordic-Auction) Simulating **opening/closing auction for Nordic cash equities, implemented in C** showing both the public Net Order Imbalance Information (NOII) and the underlying order book. 
 - [📈 **Stock**](https://github.com/PontusHovb/Stock) Retrieving and processing historic stock data in **Python (yfinance)**, which can then be used for other projects. Model future stock prices and possible outcomes with **Brownian Motion**
 - [♻️ **ESG/SBTi**](https://github.com/PontusHovb/ESG-SBTi) The effect of ESG-score and SBTi on financial performance for US stocks, coded in **R**
 
